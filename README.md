@@ -15,7 +15,7 @@
 
 <h3 align="left">📚 About me:</h3>
 <p align="left">
- Telecommunications Engineering with <b>+2 years experience</b> in front-end development, microservices and mobile development
+ Telecommunications Engineer with <b>+1 year of experience</b> in front-end development, responsive layout, microservices, use of GIT versioning, integration with APIs and REST Webservices and mobile development under Scrum methodologies.
 </p>
 
 <h3 align="left">🌐 Connect with me:</h3>
